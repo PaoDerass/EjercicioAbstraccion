@@ -2,9 +2,9 @@
 {
     public class Procedimiento : Matematicas
     {
-        public override double Potencia(double Base, double exponente)
+        public override double Potencia(double baseNum, double Exponente)
         {
-            return Math.Pow(Base, exponente);
+            return Math.Pow(baseNum, Exponente);
         }
 
         public override double Logaritmo(double Numero)
