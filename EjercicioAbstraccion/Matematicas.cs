@@ -3,7 +3,7 @@ namespace EjercicioAbstraccion
 {
     public abstract class Matematicas
     {
-        public abstract double potencia(double Base, double exponente);
+        public abstract double Potencia(double Base, double Exponente);
 
         public abstract double Logaritmo(double Numero);
 
